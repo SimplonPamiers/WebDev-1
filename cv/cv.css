@@ -1,0 +1,164 @@
+img{
+    width: 125px;
+}
+
+#name {
+    font-family: Paytone one, sans-serif;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;    
+}
+#job {
+    font-family: Paytone one, sans-serif;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+}   
+#age {
+    font-family: Paytone one, sans-serif;
+    color: black;
+    text-align: left;
+    font-size: 11;
+    font-weight: bold;
+}
+#ville {
+   font-family: Paytone, sans-serif;
+    color: black;
+    text-align: left;
+    font-size: 11;
+    font-weight: bold;
+}
+
+#email {
+    font-family: Paytone one, sans-serif;
+    color: black;
+    text-align: left;
+    font-size: 11;
+    font-weight: bold;
+}
+
+#mobilite {
+    font-family: Paytone one, sans-serif;
+    color: black;
+    text-align: left;
+    font-size: 11;
+    font-weight: bold;
+}
+#header{
+    width: 50%;
+    height: 150px;
+    background-color: #808080; 
+    margin-left: 25%;
+}
+#header1 {
+    position: relative;
+    text-align: left;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Paytone one, sans-serif;
+}
+#header2 {
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Paytone one, sans-serif;
+}
+#header3 {
+    position: relative;
+    text-align: right;
+    font-size: 10px;
+    font-family: Paytone one, sans-serif;
+}
+
+h2{
+   margin-left: 5px;
+    margin-bottom: 5px;
+    font-family: Paytone one, sans-serif;
+    color: red;
+}
+h3 {
+    margin-left: 5px;
+    margin-bottom: 5px;
+    font-family: Paytone one, sans-serif;
+    color: red;
+}
+h4 {
+    margin-left: 5px;
+    margin-bottom: 5px;
+    font-family: Paytone one, sans-serif;
+    color: red;
+    text-align: left;
+}
+h5{
+    margin-left: 5px;
+    margin-bottom: 5px;
+    font-family: Paytone one, sans-serif;
+    color: red;
+    text-align: right;
+}
+#formation {
+    border-style:solid;
+    height: 80;
+    text-align: left;
+    font-family: Paytone one, sans-serif; 
+    font-weight: bold;
+    font-size: 16px;
+} 
+#experience {
+    border-style:solid;
+    height: 110;
+    text-align: left;
+    font-family: Paytone one, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+#Global #competences {
+    float:center;
+    width:50%;
+}
+#Global #centresinteret{
+    float: center;
+    width:50%;
+}
+#competences {
+    border-style:solid;
+    height: 70;
+    text-align: left;
+    font-family: Paytone one, sans-serif;
+    margin-right: 30%;
+    font-size: 16px;
+    font-weight: bold;
+}
+#centresinteret {
+    border-style:solid;
+    height: 70;
+    text-align:center;
+    font-family: Paytone one, sans-serif;
+    margin-left: 50%;
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+#footer {
+    position: relative;
+    height: 60px;
+    font-size: 16px;
+    clear: both;
+    color: #000000;
+}
+#footer p {
+    position: relative;
+    margin-bottom: : 10px;
+    border-style:dashed;
+    border-color: #00FF00;
+    border-width: 7px;
+    height: 30;
+    text-align: center;
+    font-family: Paytone one, sans-serif;
+    background-color: #FFFF00;
+    font-weight:bold;
+    font-size:16px;
+}
