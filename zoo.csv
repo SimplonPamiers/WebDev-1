@@ -1,0 +1,72 @@
+nom,nom scientifique,nb individu,type d’aliment,secteur
+Albatros de Steller , Diomedea albatrus,4,piscivore,Secteur 1
+Ara bleu , Anodorhynchus glaucus,7,frugivvore,Secteur 2
+Atrichorne bruyant , Atrichornis clamosus,10,herbivore,Secteur 3
+Autruche , Struthio camelus,13,insectivore,Secteur 3
+Canard de Meller,,16,granivore,Secteur 3
+Coq-de-roche , Xipholena atropurpurea,19,nectarivores ,Secteur 3
+Cotinga , Cotinga maculata,22,piscivore,Secteur 3
+Courlis à bec grêle , Numenius tenuirostris,25,frugivvore,Secteur 3
+Effraie de Soumagne , Tyto soumagnei,28,herbivore,Secteur 3
+Étourneau de Bali , Leucopsar rothschildi,3,insectivore,Secteur 3
+Fou d'Abbott , Papasula abbotti,5,granivore,Secteur 3
+Frégate d'Andrews , Fregata andrewsi,7,nectarivores ,Secteur 3
+Grèbe géant , Podilymbus gigas,9,insectivore,Secteur 3
+Grue de Sibérie , Grus leucogeranus,11,granivore,Secteur 3
+Hirondelle à lunettes , Pseudochelidon sirintarae,13,nectarivores ,Secteur 3
+Ibis chauve , piscivore,15, Geronticus eremita,Secteur 3
+Jabiru , Jabiru mycteria,17,frugivvore,Secteur 3
+Kagou huppé , Rhynochetos jubatus,20,frugivvore,Secteur 3
+Kakapo , Strigops habroptilus,18,herbivore,Secteur 3
+Mainate religieux , Gracula religiosa,16,insectivore,Secteur 13
+Manchot de Humboldt ,Spheniscus humboldti,14,granivore,Secteur 14
+Mouette relique , Larus relictus,12,granivore,Secteur 15
+Mégapode , maléo Macrocephalon maleo,10,nectarivores ,Secteur 16
+Méliphage cornu , Lichenostomus melanops cassidix,8,piscivore,Secteur 17
+Nandou de Darwin , Rhea pennata,5,frugivvore,Secteur 18
+Papangue,,8,frugivvore,Secteur 19
+,,11,herbivores,Secteur 20
+    Antilocapre , Antilocapra americana,14,herbivores,Secteur 21
+    Atèle , Ateles geoffroyi,17,herbivores,Secteur 22
+    Aye-aye , Daubentonia madagascariensis,20,herbivores,Secteur 4
+    Baleine du Groenland , Balaena mysticetus,23,planctophage,Secteur 5
+    Baleine grise , Eschrichtius robustus,24, planctophages  ,Secteur 6
+    Baleine pygmée , Caperea marginata,25,planctophage,Secteur 7
+    Balénoptère ou rorqual , Balaenoptera physalus,26, planctophages  ,Secteur 8
+    Bandicoot à pied de porc , Chaeropus ecaudatus (peut-être éteint),27,frugivore,Secteur 2
+    Chimpanzé bonobo , Pan bonobo,28,frugivore,Secteur 3
+    Cachalot , Physeter macrocephalus,29,frugivore,Secteur 4
+    Caracal , Caracal caracal,30,frugivore,Secteur 5
+    Cerf de Java,,50,herbivores,Secteur 6
+    Cheval de Prjevalski , Equus prjevalskii,23,herbivores,Secteur 7
+    Chimpanzé , Pan troglodytes,17,omnivore,Secteur 8
+    Chinchilla , espèces sauvages,11,granivore,Secteur 9
+    Couguar ou Puma , Felis concolor,5,carnivore,Secteur 10
+    Dugong , Dugong dugon,6,nectarivores ,Secteur 4
+    Entelle , Semnopithecus entellus,8,piscivore,Secteur 5
+    Gibbon , Hylobatidae Gibbons,10,frugivore,Secteur 1
+    Gorille , Gorilla gorilla,12,frugivore,Secteur 2
+    Guépard , Acinonyx jubatus,14,carnivore,Secteur 13
+    Hyperoodon , Hyperoodon spp.,16,granivore,Secteur 14
+    Hémione , Equus hemionus hemionus,18,nectarivores ,Secteur 15
+    Jaguarondi , Herpailurus yaguarondi,20,piscivore,Secteur 16
+    Loutre de mer , Enhydra lutris,22,frugivore,Secteur 17
+    Lamantin ," Trichechus inunguis, T. manatus",24,frugivore,Secteur 18
+    Mandrill , Mandrillus sphinx,26,herbivores,Secteur 19
+    Marsouin , Neophocaena phocaenoides,28,herbivores,Secteur 20
+    Baleine à bosse , Megaptera novaeangliae,30,plactophage,Secteur 21
+    Once ou Panthère des neiges , Uncia uncia,12,carnivore,Secteur 23
+    Okapi , Okapia johnstoni,11,frugivore,Secteur 4
+    Panda , Ailuropoda melanoleuca,10,herbivores,Secteur 5
+    Panthère nébuleuse , Neofelis nebulosa,9,carnivore,Secteur 6
+    Petit panda , Ailurus fulgens,8,granivore,Secteur 7
+    Platanista , Platanista spp.,7,nectarivores ,Secteur 8
+    Roussette noire,,6,piscivore,Secteur 2
+    Sanglier nain ou Babiroussa , Babyrousa babyrussa,5,omnivore,Secteur 3
+    Saïmiri , Saimiri oerstedii,4,herbivores,Secteur 4
+    Souris marsupiale ," Sminthopsis longicaudata, S. psammophila",15,herbivores,Secteur 5
+    Tigre , Panthera tigris,6,carnivore,Secteur 6
+    Vigogne , Vicugna vicugna,35,herbivores,Secteur 7
+    Wombat à nez poilu du Queensland , Lasiorhinus krefftii,15,herbivores,Secteur 8
+    Zèbre , Equus zebra,16,herbivores,Secteur 9
+    Zyzomys , Zyzomys argurus,17,herbivores,Secteur 10
